@@ -1,7 +1,7 @@
-export default function Index () {
+export default function Index() {
   return (
     <div>
-      <h1>Hi</h1>
+      <h1>Hi... I am Sam! :)</h1>
     </div>
   )
 }
